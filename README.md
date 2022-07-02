@@ -9,7 +9,7 @@ This repository contains two subtastks:
 ## 1. Wisdom ESP32 operating algoritm:
 
 1.	Open "Arduino IDE".
-2.	Copy this URL: "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json" and paste it in file>preferences>settings on "Additional Boards Manager URL's ".
+2.	Copy this URL: ``` https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json ``` and paste it in file>preferences>settings on "Additional Boards Manager URL's ".
 3.	Press ok.
 4.	Go to tools>Board "ESP32 Dev Module">Boards Manager.
 5.	On the top of the window write "ESP32" and when it appears click on "Instal"l.
