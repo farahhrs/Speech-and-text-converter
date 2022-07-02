@@ -90,6 +90,86 @@ This repository contains two subtastks:
     </body>
 </html>
 ```
+### style.css:
+```
+body, html{
+    background: linear-gradient(to right , purple, yellow);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;    
+}
+.Voice2textDiv{
+    padding-top: 7%;
+    padding-left: 10%;
+    float: left;
+}
+#mainText-V2T{
+    color: white;
+    text-align: center;
+}
+#start-V2T-btn{
+    width: 30%;
+    font-size: 130%;
+    text-align: center;
+    color: purple;
+    background-color: rgba(241, 229, 237, 0.911);
+    text-decoration: none;
+    display: grid;
+    margin: auto;
+    border-radius: 5px;
+    border: none;
+}
+#resultBox{
+    height: 150px;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    border-color: purple;
+    display: grid;
+    margin: auto;
+    font-size: 20px;
+}
+#instructions-V2T{
+    text-align: center;
+    color: white;
+}
+
+.Text2voiceDiv{
+    padding-top: 7%;
+    padding-right: 10%;
+    float: right;   
+}
+#mainText-T2V{
+    color: black;
+    text-align: center;
+}
+#inputBox{
+    height: 150px;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    border-color: purple;
+    display: grid;
+    margin: auto;
+    font-size: 20px;
+}
+#instructions-T2V{
+    text-align: center;
+    color: black;
+}
+#start-T2V-btn{
+    width: 30%;
+    font-size: 130%;
+    text-align: center;
+    color: black;
+    background-color: rgba(241, 229, 237, 0.911);
+    text-decoration: none;
+    display: grid;
+    margin: auto;
+    border-radius: 5px;
+    border: none;
+}
+```
 ## 2. Wisdom ESP32 operating algoritm:
 1.	Open "Arduino IDE".
 2.	Copy this URL: "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json" and paste it in file>preferences>settings on "Additional Boards Manager URL's ".
