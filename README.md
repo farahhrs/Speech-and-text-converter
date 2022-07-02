@@ -5,4 +5,4 @@ This repository contains two subtastks:
 
 1-speech & text converter
 
-2-Wisdom ESP#@ algoritms.
+2-Wisdom ESP32 oparting algoritm.
