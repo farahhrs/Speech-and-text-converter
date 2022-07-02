@@ -1,9 +1,9 @@
-# Speech-and-text-converter
-Task 1- IOT and data systems
+# Task 1- IOT and data systems
 
 This repository contains two subtastks:
 
 1-Wisdom ESP32 oparting algoritm.
+
 2- speech & text converter
 
 ## 1. Wisdom ESP32 operating algoritm:
