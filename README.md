@@ -8,6 +8,7 @@ This repository contains two subtastks:
 2-Wisdom ESP32 oparting algoritm.
 ## 1. speech & text converter
 ### index.html:
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -88,7 +89,7 @@ This repository contains two subtastks:
         </script>
     </body>
 </html>
-
+```
 ## 2. Wisdom ESP32 operating algoritm:
 1.	Open "Arduino IDE".
 2.	Copy this URL: "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json" and paste it in file>preferences>settings on "Additional Boards Manager URL's ".
