@@ -31,7 +31,7 @@ This repository contains two subtastks:
 ## 2. Speech & text converter:
 I made 2 files:
 - [index.html](https://github.com/farahhrs/Task1-IOT-and-data-systems/blob/main/README.md#indexhtml)
-- style.css
+- [style.css](https://github.com/farahhrs/Task1-IOT-and-data-systems/blob/main/README.md#stylecss)
 
 
 ### index.html:
