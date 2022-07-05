@@ -28,7 +28,12 @@ This repository contains two subtastks:
 18.	The code is working.
 
 
-## 2. speech & text converter
+## 2. Speech & text converter:
+I made 2 files:
+- index.html
+- style.css
+
+
 ### index.html:
 ```
 <!DOCTYPE html>
