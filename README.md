@@ -8,19 +8,24 @@ This repository contains two subtastks:
 
 ## 1. Wisdom ESP32 operating algoritm:
 
-1.	Open "Arduino IDE".
-2.	Copy this URL: ``` https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json ``` and paste it in file>preferences>settings on "Additional Boards Manager URL's ".
-3.	Press ok.
-4.	Go to tools>Board "ESP32 Dev Module">Boards Manager.
-5.	On the top of the window write "ESP32" and when it appears click on "Instal"l.
-6.	After successful installation click on close and reopen the Arduino IDE.
-7.	Write the code in Arduino IDE.
-8.	Click on upload icon.
-9.	Click on save
-10.	When "connecting......" appears in the terminal click on "100" button existing on the ESP32.
-11.	Still clicking on "100" button until "Leaving......" appears on the terminal.
-12.	Click on "reset" button existing on the ESP32.
-13.	The code is working.
+1.	Install "Arduino IDE"
+2.  Open "Arduino IDE".
+3.	Copy this URL: ``` https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json ``` and paste it in File> Preferences> Settings on "Additional Boards Manager URL's ".
+4.	Press ok.
+5.	Go to Tools> Board: "Arduino Uno"> Boards Manager.
+6.	On the top of the window write "ESP32" and when it appears click on "Install".
+7.	After successful installation click on close and reopen the Arduino IDE.
+8.  Connect the ESP32 to the PC via the USB.
+9.  Go to Tools> Board: "Arduino Uno"> ESP32 Arduino> WEMOS D1 MINI ESP32.
+10. Go to Tools> port"COM3".
+11. Go to File> Examples> 01.Basics> Blink. 
+12.	Write the code.
+13.	Click on upload icon.
+14.	Click on save.
+15.	When "connecting......" appears in the terminal click on "100" button existing on the ESP32.
+16.	Still clicking on "100" button until "Leaving......" appears on the terminal.
+17.	Click on "reset" button existing on the ESP32.
+18.	The code is working.
 
 
 ## 2. speech & text converter
