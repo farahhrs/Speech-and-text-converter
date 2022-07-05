@@ -30,9 +30,9 @@ This repository contains two subtastks:
 
 ## 2. Speech & text converter:
 In this task I used 3 languages:
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 
 The codes separated into 2 files:
 - [index.html](https://github.com/farahhrs/Task1-IOT-and-data-systems/blob/main/README.md#indexhtml)
