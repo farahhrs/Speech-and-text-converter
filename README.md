@@ -29,10 +29,15 @@ This repository contains two subtastks:
 
 
 ## 2. Speech & text converter:
-I made 2 files:
+In this task I used 3 languages:
+-HTML
+-CSS
+-JavaScript
+
+The codes separated into 2 files:
 - [index.html](https://github.com/farahhrs/Task1-IOT-and-data-systems/blob/main/README.md#indexhtml)
 - [style.css](https://github.com/farahhrs/Task1-IOT-and-data-systems/blob/main/README.md#stylecss)
-
+The final result is a web page that is separated into two parts, the left one for speech to text converting, the right one for text to speech converting.
 
 ### index.html:
 ```
