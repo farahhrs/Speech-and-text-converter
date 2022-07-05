@@ -2,7 +2,7 @@
 
 This repository contains two subtastks:
 
-1- [Wisdom ESP32 oparting algoritm.](https://github.com/farahhrs/Task1-IOT-and-data-systems/blob/main/README.md#stylecss)
+1- [Wisdom ESP32 oparting algoritm.](https://github.com/farahhrs/Task1-IOT-and-data-systems/blob/main/README.md#1-wisdom-esp32-operating-algoritm)
 
 2- [Speech & text converter.](https://github.com/farahhrs/Task1-IOT-and-data-systems/blob/main/README.md#2-speech--text-converter)
 
